@@ -15,7 +15,7 @@ description: "Úvodný príspevok pre študenta: predstavenie, motivácia, ciele
 
 # 👥 Authorship
 author: "Študent"
-authors: ["Študent", "", ""]
+authors: ["Denis Ivan", "Ondrej Špánik", "Danylo Bashmakov"]
 
 # 🗂 Classification
 category: "knife"
